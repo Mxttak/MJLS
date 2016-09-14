@@ -2,7 +2,9 @@ classdef MJLS_ClassMeasurementFeedbackConstGains < handle
 % MJLS_ClassMeasurementFeedbackConstGains : a reference implementation of 
 % the  control law presented in M. Dolgov, U.D. Hanebeck, "Dynamic 
 % Compensation of Markov Jump Linear Systems without Mode Observation", 
-% 2015. This implementation is porvided as is. For academic purposes only.
+% 2016. 
+%
+% This implementation is porvided as is. For academic use only.
 %
 % AUTHOR: Maxim Dolgov, 20. Oct. 2015
 %         maxim.dolgov@kit.edu
